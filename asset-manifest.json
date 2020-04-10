@@ -1,16 +1,16 @@
 {
-  "main.css": "/robofriends-knowledge-app/static/css/main.535c353c.chunk.css",
-  "main.js": "/robofriends-knowledge-app/static/js/main.d22145cb.chunk.js",
-  "main.js.map": "/robofriends-knowledge-app/static/js/main.d22145cb.chunk.js.map",
+  "main.css": "/robofriends-knowledge-app/static/css/main.3b804075.chunk.css",
+  "main.js": "/robofriends-knowledge-app/static/js/main.7207fceb.chunk.js",
+  "main.js.map": "/robofriends-knowledge-app/static/js/main.7207fceb.chunk.js.map",
   "runtime~main.js": "/robofriends-knowledge-app/static/js/runtime~main.fd3dafe1.js",
   "runtime~main.js.map": "/robofriends-knowledge-app/static/js/runtime~main.fd3dafe1.js.map",
-  "static/css/2.9c8059d3.chunk.css": "/robofriends-knowledge-app/static/css/2.9c8059d3.chunk.css",
+  "static/css/2.eaa53c30.chunk.css": "/robofriends-knowledge-app/static/css/2.eaa53c30.chunk.css",
   "static/js/2.9bb725c1.chunk.js": "/robofriends-knowledge-app/static/js/2.9bb725c1.chunk.js",
   "static/js/2.9bb725c1.chunk.js.map": "/robofriends-knowledge-app/static/js/2.9bb725c1.chunk.js.map",
   "index.html": "/robofriends-knowledge-app/index.html",
-  "precache-manifest.0ce30d5d6a3d1322a0c73b8ec39ef7b8.js": "/robofriends-knowledge-app/precache-manifest.0ce30d5d6a3d1322a0c73b8ec39ef7b8.js",
+  "precache-manifest.239f6deba11598d45f0097036c09f601.js": "/robofriends-knowledge-app/precache-manifest.239f6deba11598d45f0097036c09f601.js",
   "service-worker.js": "/robofriends-knowledge-app/service-worker.js",
-  "static/css/2.9c8059d3.chunk.css.map": "/robofriends-knowledge-app/static/css/2.9c8059d3.chunk.css.map",
-  "static/css/main.535c353c.chunk.css.map": "/robofriends-knowledge-app/static/css/main.535c353c.chunk.css.map",
+  "static/css/2.eaa53c30.chunk.css.map": "/robofriends-knowledge-app/static/css/2.eaa53c30.chunk.css.map",
+  "static/css/main.3b804075.chunk.css.map": "/robofriends-knowledge-app/static/css/main.3b804075.chunk.css.map",
   "static/media/App.css": "/robofriends-knowledge-app/static/media/SEGA.12a3db8b.woff"
 }
